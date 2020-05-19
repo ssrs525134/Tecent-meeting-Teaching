@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sign_up_for_tecent_meeting">
+    <title>How to sign up for Tecent Meeting</title>
+    <shortdesc>You need a third account to start a tecent meeting or just register for your own</shortdesc>
+    <taskbody>
+        <context>first, entering your telephone number for a code
+            second, entering the code for a account
+            thirs, when you successfully applied for a account, you can sign up
+            forth your can apply for a tecent meeting
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the end, you have your own account and and passwords, please keep it safe</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
